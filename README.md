@@ -28,3 +28,11 @@
 
 10.以太系列注册费用金额预估偏差较大，如0.0023ETH，此刻ETH价格3389，价值7.79刀左右，显示5.9刀
 ![image](https://github.com/lonelyIslanders/det/assets/73678509/e9eb6ec2-183f-4643-ae5f-a7479d7a6d9b)
+
+11.Referral界面的搜索出结果往下拉后，最上面的导航栏全透明后显示混乱
+
+![image](https://github.com/lonelyIslanders/det/assets/73678509/0141859f-a906-4061-80e0-92b564f74a90)
+
+12.首页搜索出列表拉到最下方，文字显示不全
+
+![image](https://github.com/lonelyIslanders/det/assets/73678509/0a1b84f4-fed7-4f59-bbbe-51feaee0683d)
